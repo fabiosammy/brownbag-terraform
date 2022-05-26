@@ -16,3 +16,6 @@
 * terraform destroy
    * removerá todos os resources do state atual
    * https://www.terraform.io/cli/commands/destroy
+
+Slides: https://docs.google.com/presentation/d/1tHxWHmNkC7gVUtrIzL8FTq8P9dusLI4WdNouTLsgGKk/edit?usp=sharing
+
